@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aveda-wellness.vercel.app/sitemap.xml
